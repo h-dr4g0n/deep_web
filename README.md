@@ -15,5 +15,6 @@
 3. Download tor linux 32 bit : https://github.com/TheTorProject/gettorbrowser/releases/download/v7.5.3/tor-browser-linux32-7.5.3_en-US.tar.xz
 ----
 <img src="https://github.com/h-dr4g0n/deep_web/blob/master/deep-web-sites-links.jpg">
-----
 <img src="https://github.com/h-dr4g0n/deep_web/blob/master/tenor.gif">
+----
+# Good Luck
