@@ -1,8 +1,8 @@
 # deep web
 * [Phạm Hiệp](https://www.facebook.com/pham.hiep.attack)
 * [@attack_rvp](https://www.instagram.com/attack_rvp/)
-* folow
-**Folow me** : https://www.facebook.com/pham.hiep.attack
+* Folow
+**me** : https://www.facebook.com/pham.hiep.attack
 >Folow me : https://www.instagram.com/attack_rvp/
 ----
 # Download tor
@@ -16,4 +16,4 @@
 ----
 <img src="https://github.com/h-dr4g0n/deep_web/blob/master/deep-web-sites-links.jpg">
 ----
-<img src="https://github.com/h-dr4g0n/deep_web/blob/master/tumblr_o39eeb5PQ81tc1wk4o1_400.gif">
+<img src="https://github.com/h-dr4g0n/deep_web/blob/master/tenor.gif">
